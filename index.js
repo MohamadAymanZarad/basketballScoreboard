@@ -1,3 +1,6 @@
+homeScore = 0
+guestScore = 0
+
 // This function adds 1 point to the home score and updates the display
 function addHomeScore1() {
     homeScore += 1
